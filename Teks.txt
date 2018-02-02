@@ -1,0 +1,13 @@
+
+Judul : Tahapan Membuat Template Design Website Semantic dengan Menggunakan HTML 5
+
+Bagi anda yang baru saja ingin membuat template website, Ini adalah waktu yang sangat tepat buat anda untuk mulai mengadopsi tag elemen HTML5 semantik ke dalam desain website Anda. W3C telah melakukan penelitian pada miliaran website dan menyimpulkan bahwa sebagian besar ID dan CLASS pada DIV yang umumnya digunakan untuk template desain website terdiri dari header, nav (navigation), menu, content, title dan footer yang pada akhirnya..
+
+Judul : Kumpulan Desain Navigasi Menu yang Menarik
+
+Navigasi menu adalah bagian yang sangat penting dari sebuah desain website. Saat saya melihat sebuah website salah satu bagian desain yang sering saya perhatikan adalah desain navigasi menu karena navigasi menu tentunya memberi pengaruh yang besar dalam mengarahkan pengunjung website ke halaman-halaman yang terdapat di website itu sendiri. Selain pengunjung navigasi menu juga mengarahkan robot search engine ke arah yang benar walaupun..
+
+Judul : Tutorial Membuat Desain Website Responsif
+
+Sesuai dengan judulnya, artikel ini adalah level dasar penggunaan jQuery untuk membuat drop down menu yang sangat sederhana, tentunya juga dengan CSS dan HTML. Drop down menu sangat berguna untuk menghemat space website, apalagi apabila website memiliki banyak menu navigasi. Saya akan berbagi cara pembuatannya disini, hasilnya kurang lebih akan seperti menu dibawah ini..
+

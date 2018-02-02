@@ -1,0 +1,106 @@
+*{margin : 0px auto;}
+
+body {
+	background: url('images/bg_body.jpg');
+}
+.kotak {
+	width : 80%;
+	padding : 1%;
+}
+
+
+/*awal header*/
+.header {
+	overflow: hidden;
+}
+.header1 {
+	float: left;
+}
+.header2 {
+	float: right;
+}
+/*akhir header*/
+
+
+/* tab */
+.tab {
+	overflow: hidden;
+}
+.port a, .about a, .blog a {
+	background-color: #333333;
+	height: 20px;
+	width: 18%;
+	float: left;
+	text-align: center;
+	padding: 1%;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+.home a {
+	background-color: #333333;
+	height: 20px;
+	width: 18%;
+	float: left;
+	text-align: center;
+	padding: 1%;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	border-radius: 15px 0px 0px 15px;
+}
+.contact a {
+	background-color: #333333;
+	height: 20px;
+	width: 18%;
+	float: left;
+	text-align: center;
+	padding: 1%;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	border-radius: 0px 15px 15px 0px;
+}
+.port a:hover, .about a:hover, .blog a:hover, .home a:hover, .contact a:hover {
+	background-color : #ffff66;
+    color : black;
+    font-weight: bold;
+}
+/*akhir tab*/
+
+
+/*konten*/
+.konten {
+	overflow : hidden;
+}
+.isi1 {
+	width : 70%;
+	float : left;
+	padding: 1%;
+}
+.dua {
+	color: #737373;
+}
+p {
+	text-align : justify;
+}
+.isi2 {
+	background : white;
+	width : 25%;
+	float : left;
+	padding: 1%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+.artikel {
+	width: 90%; 
+}
+.artikel1 {
+	background-color : #333333;
+	border-radius: 5px;
+}
+.artikel1 p {
+	text-align: center;
+	color: white;
+}
+/*akhir konten*/
